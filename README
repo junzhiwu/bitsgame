@@ -1,0 +1,14 @@
+###dataset
+Yellow taxi data in 2016  (from January to December)
+
+data quality issue:
+Rows with the following invalid values need to be cleaned
+Column inconsistent
+Wrong format 
+
+###Data Preprocessing
+to run the code, 
+first transform the data of second half year 
+set input path and output path in dataTransform.py, then run python dataTransform.py in Terminal 
+then clean all the data
+set input path and output path in dataClean.py, then run python dataClean.py in Terminal.
